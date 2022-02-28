@@ -1,0 +1,253 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Relation of the engagement of the fleet of the Common-wealth of England under the command of Gen. Blake, Gen. Deane, and Gen. Munke. With the Dutch fleet, under the command of Van Trump. Abstracted out of severall letters and relations made to the Councell of State. And a list of the particulars of the losse on both sides. With the copy of a letter from the commissioners of prize goods from Dover, touching the said fight between the English and the Dutch. And the particulars of all the three fights, on Friday, Saturday and Sunday last. And the glorious victory in taking, sinking, and totall dispersing the Hollanders fleet, which was between four and 500 saile. Imprimatur, Hen. Scobel Cleric. Parliamenti.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92363</idno>
+            <idno type="STC">Wing R829</idno>
+            <idno type="STC">Thomason E688_8</idno>
+            <idno type="STC">ESTC R203489</idno>
+            <idno type="EEBO-CITATION">99863434</idno>
+            <idno type="PROQUEST">99863434</idno>
+            <idno type="VID">115636</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92363)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115636)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 106:E688[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Relation of the engagement of the fleet of the Common-wealth of England under the command of Gen. Blake, Gen. Deane, and Gen. Munke. With the Dutch fleet, under the command of Van Trump. Abstracted out of severall letters and relations made to the Councell of State. And a list of the particulars of the losse on both sides. With the copy of a letter from the commissioners of prize goods from Dover, touching the said fight between the English and the Dutch. And the particulars of all the three fights, on Friday, Saturday and Sunday last. And the glorious victory in taking, sinking, and totall dispersing the Hollanders fleet, which was between four and 500 saile. Imprimatur, Hen. Scobel Cleric. Parliamenti.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Ibbitson dwelling in Smithfield, neer Hosier Lane.,</publisher>
+                  <pubPlace>London. :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Feb. 23 1652"; the 3 in the date has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Albemarle, George Monck, --  Duke of, 1608-1670 --  Early works to 1800.</term>
+               <term>Blake, Robert, 1599-1657 --  Early works to 1800.</term>
+               <term>Deane, Richard, 1610-1653 --  Early works to 1800.</term>
+               <term>Tromp, Maarten Harpertsz., 1598-1653 --  Early works to 1800.</term>
+               <term>Naval battles --  Early works to 1800.</term>
+               <term>Anglo-Dutch War, 1652-1654 --  Early works to 1800.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714 --  Early works to 1800.</term>
+               <term>Netherlands --  History --  1648-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115636:1" rendition="simple:additions"/>
+            <p>A RELATION OF THE Engagement of the Fleet of the Com<g ref="char:EOLhyphen"/>mon-wealth of ENGLAND under the Command of Gen. <hi>Blake,</hi> Gen. <hi>Deane,</hi> and Gen. <hi>Munke.</hi> With the Dutch Fleet, under the Com<g ref="char:EOLhyphen"/>mand of <hi>
+                  <g ref="char:V">Ʋ</g>an Trump.</hi>
+            </p>
+            <p>Abſtracted out of ſeverall Letters and Relations made to the Councell of State.</p>
+            <p>
+               <hi>And a Liſt of the particulars of the Loſſe on both ſides.</hi>
+            </p>
+            <p>WITH The Copy of a Letter from the Commiſſioners of Prize Goods from <hi>Dover,</hi> touching the ſaid Fight between the Engliſh and the Dutch.</p>
+            <p>And the particulars of all the three Fights, on <hi>Friday, Saturday</hi> and <hi>Sunday</hi> laſt.</p>
+            <p>And the Glorious Victory in taking, ſinking, and totall diſperſing the <hi>Hollanders</hi> Fleet, which was between four and 500 Saile.</p>
+            <floatingText type="license" xml:lang="lat" subtype="imprimatur">
+               <body>
+                  <p>Imprimatur,</p>
+                  <closer>
+                     <signed>Hen. Scobel Cleric. Parliamenti.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>LONDON. Printed for ROBERT IBBITSON dwelling in Smithfield, neer Hoſier Lane. 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:115636:2"/>
+            <pb n="1" facs="tcp:115636:2"/>
+            <head>A Relation of the late Engagement between the Fleets of the Engliſh and Dutch.</head>
+            <opener>
+               <dateline>
+                  <hi>White-hal</hi> 
+                  <date> 20. <hi>Febr.</hi> 1652.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Here came an account of the ſucceſſe of our firſt En<g ref="char:EOLhyphen"/>gaging with the Dutch Fleet to this effect.</p>
+            <p>Upon Friday 18. inſtant as ſoon as day began to dawn, ours diſcovered the Holland fleet, betweene <hi>Portland</hi> and the <hi>Iſle of Wight,</hi> about ſeven leagues off <hi>Portland</hi> North and by Weſt, the wind North-weſt, which conſiſted of about 80 ſaile men of war beſides the Merchant men, which were judged about 150 ſome ſay many more, they all having the wind of us.</p>
+            <p>But about eight a clocke the ſame morning Gen. <hi>Blake</hi> and Gen. <hi>Dean</hi> being both of them aboard the <hi>Triumph,</hi> ingaged the Enemy, the Dutch men of war bearing upon them, but the reſt of our Fleet indeavouring to follow, not above three or four of them could get up, becauſe they were to Lee-ward, ſo that the Generall with thoſe few were conſtrained to bear the firſt brunt holding play with no leſſe then 30 of the Dutch men of war, whereof ſeven at a time kept upon the <hi>Tryumph,</hi> and yet they con<g ref="char:EOLhyphen"/>tinued till two a clock in the afternoon, being much ſhattered in her Sales, but ſo tite in her Hulls, that ſhe never ſo much as pumpt for it.</p>
+            <p>It was ten a clock before any more of our fleet ingaged, and then not above halfe our number came up, the whole amoun<g ref="char:EOLhyphen"/>ting to about 60 faile: after this the diſpute grew very hot, and ſo continued for the ſpace of 4 or 5 houres, but afterwards the
+<pb n="2" facs="tcp:115636:3"/>fight grew more moderate, holding play till night parted both parties.</p>
+            <p>In this action the Lord was pleaſed ſo to proſper us, that wee loſt but one ſhip called the <hi>Sampſon,</hi> which was rendred unſer<g ref="char:EOLhyphen"/>viceable in the Fight, and then her men being taken <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, ſhe<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> was ſunk by her own Captaine, having firſt ſunk the Enemy which maimed her, ſhe was a Ship of 26 guns, her Captaine is wounded, his name is Captaine <hi>Button:</hi> We had like to have loſt the <hi>Proſperous</hi> commanded by Cap. <hi>Barker,</hi> but ſhe was re<g ref="char:EOLhyphen"/>taken by Cap. <hi>V<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſey</hi> commander of the <hi>Merly<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Frigot.</p>
+            <p>The <hi>Advice</hi> F<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>got was in hot ſervice having 4 ſaile of <hi>Dutch</hi> which lay <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>board of her, yet ſhe acquitted her ſelf ſo wel, that ſhe ſunk one of their Rear Admiralls of 38 guns down by her ſide, and one ſhip more of 36 guns in the ſame manner, but her Cap. is dangerouſly wounded, his name is Capt. <hi>John Day,</hi> there are wounded alſo his Maſter and divers other Officers; his Lieut, Boatſwaine and Corporall with about 35 more are ſlain and a<g ref="char:EOLhyphen"/>bout 40 or 50 more wounded: The Dutch boarded her once, and had got poſſeſſion of her fore caſtle, but they were beaten out again, her Hull, Maſts and Rigging are ſo ſhattered, and her Company ſo much diſabled by ſo ſharp and diſadvantagious a confl<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct, having coped with ſo many at once, that ſhe was occa<g ref="char:EOLhyphen"/>ſioned that night to make for <hi>Portſmouth,</hi> there to repaire.</p>
+            <p>The loſſe on our ſide is of divers worthy, and precious men, in the Generals own ſhip the <hi>Triumph</hi> which was ſo ſharply in<g ref="char:EOLhyphen"/>gaged, there are between 80 and 100 killed and wounded wher<g ref="char:EOLhyphen"/>of 4 of note, <hi>viz.</hi> Cap. <hi>Bal,</hi> the Gen. Secretary Mr. <hi>Sparrow</hi> with the Maſter whoſe name is <hi>Broadrtdge</hi> and his Mate. The two Generals was by an over-ruling providence preſerved, other<g ref="char:EOLhyphen"/>wiſe greatly indangered, by a bar of Iron which wounded Ge<g ref="char:EOLhyphen"/>neral <hi>Blake</hi> on the left thigh, a litle above the knee, but not dan<g ref="char:EOLhyphen"/>gerouſly, and tore two peeces of the coate and Brechees of Gen. <hi>Deane;</hi> all with the ſame ſhot.</p>
+            <pb n="3" facs="tcp:115636:3"/>
+            <p>In the <hi>Van-guard</hi> there was ſlaine Cap. <hi>Mildmay</hi> with about 30 more killed and wounded In the <hi>Fortune</hi> Cap. <hi>Tatnel.</hi> In the <hi>Proſ<g ref="char:EOLhyphen"/>perous</hi> Cap. <hi>Barker,</hi> Cap. <hi>Kirby,</hi> and Cap. <hi>Deacons</hi> are wounded.</p>
+            <p>As to the <hi>Dutch</hi> loſſe, the exact &amp; ful particular is not yet known but thus much is certaine, we have taken one of their Vice Ad<g ref="char:EOLhyphen"/>miralls a ſhip of 1200 Tuns and 44 peece of Ordnance 6 or 8 braſſe, it being one of their prime ſhips, This veſſell was found to have 100 men ſtaine in her being delivered up to Cap. <hi>Stokes,</hi> be<g ref="char:EOLhyphen"/>ing much battered by the <hi>Lyon</hi> who would have bit hard before if ſhe had had this Cap. in her, who is ſaid to have been the bain of 3. of the Dutch men of War, the <hi>Dragon</hi> alſo plaid her part ve<g ref="char:EOLhyphen"/>ry luſtily. There was ſunk and burnt of the Dutch fleet in this incounter, one of their Vice Admirals, one of the Rear Admirals, and nine more of their men of War. Seven or eight more ſo maimed, that ſome of them were ſeen towed, what more may be is not yet known, but our men were plying towards the Enemy, five leagues off the Iſle of <hi>Wight.</hi>
+            </p>
+            <p>And on Saturday 19. inſtant our fleet began with 2. Frigots to re-ingage them about 10. a clock in the morning, but left againe for a while, till the main fleet came up, and then about one a clock the whole fleets were ingaged, ours having that day the wind, the Dutch being before, and ſetting their Merchant men Eaſt-ward of <hi>Dunnoſe</hi> 6. leagues all along the Channell.</p>
+            <p>The 18. at night there came to the fleet the <hi>Diamond</hi> from <hi>Portſmouth</hi> 2. Merchant men from the Downes, with the <hi>Saphyre</hi> Cap. <hi>Hill</hi> who informed that in all there were 19 more coming from the Downs, the <hi>Aſsiſtance, the Advice</hi> and <hi>the Oake</hi> are come into <hi>Portſmouth</hi> and ſome private men of War gone our thence.</p>
+            <p>
+               <hi>From the</hi> Iſle of Wight 19. <hi>inſtant, Alſo it is written that the ſame day being Saturday the two Fleets were ingaged againe, within foure leagues of the Iſland plainly in veiw, that they begun about</hi> 12 <hi>of the clocke, and ſpent ſome time upon firing at each other at a diſtance, but afterwards the Fight growing hot, the Sea being calme, and Sea roome
+<pb facs="tcp:115636:4"/>enough, it was conceived ſomewhat in all probability would be done to purpoſe, that ours preſſed much after the enemy before they could engage; that they have placed their Merchant men in the Van, who are obſer<g ref="char:EOLhyphen"/>ved to haſten Eaſtward, that our ſhips were ſeen to come gallantly ex<g ref="char:EOLhyphen"/>cept</hi> 10 <hi>or</hi> 12 <hi>which could not ſail ſo fast, but were likely to get in quickly, and that ours had the weather-gage of the enemy.</hi>
+            </p>
+            <p>
+               <hi>By another of the ſame date from the ſame Iſland, it is written far<g ref="char:EOLhyphen"/>ther thus, That on Frydays engagement about</hi> 8 <hi>or</hi> 9 <hi>of the Dutch Veſ<g ref="char:EOLhyphen"/>ſels were obſerved to be burnt: That on Saturday both Fleets in view of that Iſland were engaged again: that there were about</hi> 4 <hi>leagues off in the trade-way: That ſome of our headmoſt ſhips began the engage<g ref="char:EOLhyphen"/>ment about</hi> 12 <hi>of the clock that day, which the Dutch endeavoured to avoid: That the Dutch Fleet were of Men of War and of Merchant<g ref="char:EOLhyphen"/>men (as was gueſſed) near</hi> 300: <hi>That ours ſeemed about</hi> 70. <hi>of which ſome were not fully come up: That the Dutch placed their Merchant<g ref="char:EOLhyphen"/>men in the Van, who appeared, endeavouring to ſail on Eaſtward as far as they could, yet but ſlowly, the wind being very ſtill: That their Men of War engaged retreating, and ours preſſed on hard, being as faſt as they could get up: That ours had gotten the weathergage, and the fight waxed very hot, even while this Letter was a penning, and the ſeaſon and peace of the fight being conſidered, the event is like to be very con<g ref="char:EOLhyphen"/>ſiderable.</hi>
+            </p>
+            <div type="list">
+               <head>A Liſt of the particulars of the loſſe on both ſides.</head>
+               <list>
+                  <head>Loſſe of the Dutch party on Friday.</head>
+                  <item>1 Vice Admiral ſhip ſunk.</item>
+                  <item>1 Rear Admiral ſhip ſunk</item>
+                  <item>9 more of their ſhips ſunk</item>
+                  <item>1 Vice Admiral ſhip taken</item>
+                  <item>100 men ſlain in the Vice Admirall,</item>
+                  <item>Many hundreds of the Dutch ſlaine and wounded in ſeveral ſhips.</item>
+                  <item>7 ſhips maimed ſo, that they were faine to towe them.</item>
+               </list>
+               <list>
+                  <head>On Saturday and Sunday.</head>
+                  <item>The reſt of the Holland fleet were taken, ſunk, and totally diſperſed, who in all were between four and 500 faile.</item>
+               </list>
+               <list>
+                  <head>Loſſe of the Engliſh.</head>
+                  <item>The Sampſon Frigot ſunk</item>
+                  <item>The Proſperous taken, but was after re-taken.</item>
+                  <item>Cap. John Day wounded</item>
+                  <item>The Mr. of the Advice wounded</item>
+                  <item>35 ſlain in the Advice Frigot</item>
+                  <item>40 and odde wounded in the Advice</item>
+                  <item>The Advice Frigot boarded, but the Dutch beaten off again.</item>
+                  <item>The Advice Frigot come to Portſ<g ref="char:EOLhyphen"/>mouth
+<pb n="5" facs="tcp:115636:4"/>to be mended.</item>
+                  <item>80 and odde kild and wounded in the Tryumph</item>
+                  <item>Capt. Ball ſlain.</item>
+                  <item>Mr. Sparrow Secretary to the Gene<g ref="char:EOLhyphen"/>rals ſlain.</item>
+                  <item>Mr. Broadridge, Mr. of the Tryumph flain</item>
+                  <item>Gen. Blake wounded on the left thigh</item>
+                  <item>Gen. Deans coat and breeches torn.</item>
+                  <item>Capt. Mildmay ſlain</item>
+                  <item>30 kild and wounded in the Vangard</item>
+                  <item>Cap. Tatnell; Cap. Barker, Cap. Kir<g ref="char:EOLhyphen"/>by, &amp; Cap. Deakons wounded.</item>
+                  <item>Cap. Lawſon dead of his wounds.</item>
+               </list>
+            </div>
+         </div>
+         <div type="letter">
+            <head>The Copie of a Letter from the Commiſsioners for Prize-goods from <hi>Dover,</hi> touching the fight between the <hi>Engliſh</hi> and <hi>Dutch</hi> Fleets.</head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>THeſe ſerve only to adviſe you of what we have heard concerning the action between our Fleet and the Hollan<g ref="char:EOLhyphen"/>ders, who firſt engaged on Friday laſt about half Seas over of the Iſle of <hi>Wight,</hi> which continued all day, and was a very hot diſpute: but what the event of it was there is not any certainty yet come; only the general report of ſome that are arrived from thence, who can give no particulars, but ſay we have had the beſt of it, and conceive 5 of their Men of War that day to be taken.</p>
+            <p>This day came on ſhore one <hi>Thomas Prynne</hi> ſent in with a prize; who was one of the company of the Nightingale Frigot, who were laſt Saturday in the fight of the <hi>Iſle of Wight,</hi> who ſaith they ingaged with the whole Fleet of the Hollanders about noon, and fought them the whole day, where one of the Hollan<g ref="char:EOLhyphen"/>ders greateſt Ships were taken, night coming on they parted.</p>
+            <p>On Sunday morning our Fleet had ſight again of the Hollan<g ref="char:EOLhyphen"/>ders, and about nine of the clock engaged again with their whole Fleet, which for an hours time was very deſperate; but at leng<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h the enemy bore up before the wind, with all the ſail they could make, our Fleet chaſing them ſo that they made a running fight;
+<pb n="6" facs="tcp:115636:5"/>who making ſuch great ſail, left their Merchant men a ſtern off them, who began to ſtraggle in a confuſed manner, ſome falling in amongſt the thickeſt of our Fleet, which in regard of the pur<g ref="char:EOLhyphen"/>ſuit of the Hollanders, were forced to ſink ſome, and fire the reſt. By all that we can gather, our Fleet is yet in chaſe of them both to the Eaſtward and the Southward: the wind at preſent blows hard at North, and North-eaſt, ſo that thoſe ſhips of the Hol<g ref="char:EOLhyphen"/>landers that have eſcaped are not able to get home. There is in our road afar off the Fairfax, whereof Captain <hi>Lawſon</hi> was Com<g ref="char:EOLhyphen"/>mander, who is ſlain, who hath taken the Vice-Admiral of Holland prize; with him many other ſhips are ſeen in the <hi>Offing</hi> conceived to be prize: by all that we have ſound together, it is generally concluded a total diſperſing of the Hollanders Fleet, who were between four and five hundred ſail of Men of War and Merchant-men.</p>
+            <p>We hear not of the loſs of any of our ſhips, only the ſhip Proſperous was boarded and taken by the Hollanders, but was immediately again retaken by one of our Frigots.</p>
+            <p>There is already brought into the Road three prizes, but we have no great accompt of them. One is loaden with Wine from <hi>Nantz,</hi> and the others with Salt and Brandwine. We have not elſe,</p>
+            <closer>
+               <signed>Yours ready to ſerve you <hi>J. C. N.F.</hi>
+               </signed>
+               <dateline>
+                  <hi>Dutch Prize-Office</hi> Dover, <date>Feb. 21. 1652.</date> 
+                  <hi>at three of the clock in the afternoon.</hi>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
